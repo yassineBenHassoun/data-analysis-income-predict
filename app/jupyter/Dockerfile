@@ -1,6 +1,6 @@
 FROM python:3.8
 
-COPY ../../application /app
+
 
 
 EXPOSE 8888
@@ -12,9 +12,11 @@ RUN pip install \
 
 #RUN mkdir -p  /project
 
+RUN mkdir /app
 
+COPY /resources /app
 
-WORKDIR /jupyter
+WORKDIR /app
 
 ENTRYPOINT [ "jupyter" ]
 CMD [ "notebook","--allow-root","--ip=0.0.0.0"]

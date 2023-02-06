@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  lab:
+    container_name: jupyter
+    build: ./app/jupyter
+    volumes:
+      - $PWD/app/jupyter/resources:/app
+    environment:
+      - PASSWORD=jupy
+      - JUPYTER_TOKEN=jupy
+    ports:
+      - 8888:8888
