@@ -1,16 +1,11 @@
 FROM python:3.8
 
-
-
-
 EXPOSE 8888
 
 RUN pip install \
   numpy \
   pandas \
   notebook
-
-#RUN mkdir -p  /project
 
 RUN mkdir /app
 
@@ -29,3 +24,4 @@ RUN pip install matplotlib
 RUN pip install scipy
 RUN pip install seaborn
 RUN pip install -U scikit-learn
+RUN pip install chardet
