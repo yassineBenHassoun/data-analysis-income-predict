@@ -1,0 +1,199 @@
+name,NOM_ALPHA,iso
+Afghanistan,Afghanistan,AFG
+Afrique du Sud,Afrique du Sud,ZAF
+Albanie,Albanie,ALB
+Algérie,Algérie,DZA
+Allemagne,Allemagne,DEU
+Andorre,Andorre,AND
+Angola,Angola,AGO
+Antigua-et-Barbuda,Antigua-et-Barbuda,ATG
+Arabie saoudite,Arabie saoudite,SAU
+Argentine,Argentine,ARG
+Arménie,Arménie,ARM
+Australie,Australie,AUS
+Autriche,Autriche,AUT
+Azerbaïdjan,Azerbaïdjan,AZE
+Bahamas,Bahamas,BHS
+Bahreïn,Bahreïn,BHR
+Bangladesh,Bangladesh,BGD
+Barbade,Barbade,BRB
+Belgique,Belgique,BEL
+Bélize,Bélize,BLZ
+Bénin,Bénin,BEN
+Bhoutan,Bhoutan,BTN
+Biélorussie,Biélorussie,BLR
+Birmanie,Birmanie,MMR
+Bolivie,Bolivie,BOL
+Bosnie-Herzégovine,Bosnie-Herzégovine,BIH
+Botswana,Botswana,BWA
+Brésil,Brésil,BRA
+Brunéi,Brunéi,BRN
+Bulgarie,Bulgarie,BGR
+Burkina,Burkina,BFA
+Burundi,Burundi,BDI
+Cambodge,Cambodge,KHM
+Cameroun,Cameroun,CMR
+Canada,Canada,CAN
+Cap-Vert,Cap-Vert,CPV
+Centrafrique,Centrafrique,CAF
+Chili,Chili,CHL
+Chine,Chine,CHN
+Chypre,Chypre,CYP
+Colombie,Colombie,COL
+Comores,Comores,COM
+Congo,Congo,COG
+Congo (démocratique du),Congo (démocratique du),COD
+Îles Cook,Cook (Îles),COK
+Corée du Nord,Corée du Nord,PRK
+Corée du Sud,Corée du Sud,KOR
+Costa Rica,Costa Rica,CRI
+Côte d'Ivoire,Côte d'Ivoire,CIV
+Croatie,Croatie,HRV
+Cuba,Cuba,CUB
+Danemark,Danemark,DNK
+Djibouti,Djibouti,DJI
+Dominicaine (République),Dominicaine (République),DOM
+Dominique,Dominique,DMA
+Égypte,Égypte,EGY
+Émirats arabes unis,Émirats arabes unis,ARE
+Équateur,Équateur,ECU
+Érythrée,Érythrée,ERI
+Espagne,Espagne,ESP
+Estonie,Estonie,EST
+Eswatini,Eswatini,SWZ
+États-Unis,États-Unis,USA
+Éthiopie,Éthiopie,ETH
+Fidji,Fidji,FJI
+Finlande,Finlande,FIN
+France,France,FRA
+Gabon,Gabon,GAB
+Gambie,Gambie,GMB
+Géorgie,Géorgie,GEO
+Ghana,Ghana,GHA
+Grèce,Grèce,GRC
+Grenade,Grenade,GRD
+Guatémala,Guatémala,GTM
+Guinée,Guinée,GIN
+Guinée Équatoriale,Guinée Équatoriale,GNQ
+Guinée-Bissau,Guinée-Bissau,GNB
+Guyana,Guyana,GUY
+Haïti,Haïti,HTI
+Honduras,Honduras,HND
+Hongrie,Hongrie,HUN
+Inde,Inde,IND
+Indonésie,Indonésie,IDN
+Irak,Irak,IRQ
+Iran,Iran,IRN
+Irlande,Irlande,IRL
+Islande,Islande,ISL
+Israël,Israël,ISR
+Italie,Italie,ITA
+Jamaïque,Jamaïque,JAM
+Japon,Japon,JPN
+Jordanie,Jordanie,JOR
+Kazakhstan,Kazakhstan,KAZ
+Kénya,Kénya,KEN
+Kirghizistan,Kirghizistan,KGZ
+Kiribati,Kiribati,KIR
+Kosovo,Kosovo,KOS
+Koweït,Koweït,KWT
+Laos,Laos,LAO
+Lesotho,Lesotho,LSO
+Lettonie,Lettonie,LVA
+Liban,Liban,LBN
+Libéria,Libéria,LBR
+Libye,Libye,LBY
+Liechtenstein,Liechtenstein,LIE
+Lituanie,Lituanie,LTU
+Luxembourg,Luxembourg,LUX
+Macédoine du Nord,Macédoine du Nord,MKD
+Madagascar,Madagascar,MDG
+Malaisie,Malaisie,MYS
+Malawi,Malawi,MWI
+Maldives,Maldives,MDV
+Mali,Mali,MLI
+Malte,Malte,MLT
+Maroc,Maroc,MAR
+Îles Marshall,Marshall (Îles),MHL
+Maurice,Maurice,MUS
+Mauritanie,Mauritanie,MRT
+Mexique,Mexique,MEX
+Micronésie,Micronésie,FSM
+Moldavie,Moldavie,MDA
+Monaco,Monaco,MCO
+Mongolie,Mongolie,MNG
+Monténégro,Monténégro,MNE
+Mozambique,Mozambique,MOZ
+Namibie,Namibie,NAM
+Nauru,Nauru,NRU
+Népal,Népal,NPL
+Nicaragua,Nicaragua,NIC
+Niger,Niger,NER
+Nigéria,Nigéria,NGA
+Niue,Niue,NIU
+Norvège,Norvège,NOR
+Nouvelle-Zélande,Nouvelle-Zélande,NZL
+Oman,Oman,OMN
+Ouganda,Ouganda,UGA
+Ouzbékistan,Ouzbékistan,UZB
+Pakistan,Pakistan,PAK
+Palaos,Palaos,PLW
+Panama,Panama,PAN
+Papouasie-Nouvelle-Guinée,Papouasie-Nouvelle-Guinée,PNG
+Paraguay,Paraguay,PRY
+Pays-Bas,Pays-Bas,NLD
+Pérou,Pérou,PER
+Philippines,Philippines,PHL
+Pologne,Pologne,POL
+Portugal,Portugal,PRT
+Qatar,Qatar,QAT
+République centrafricaine,République centrafricaine,CAF
+République dominicaine,République dominicaine,DOM
+République tchèque,République tchèque,CZE
+Roumanie,Roumanie,ROU
+Royaume-Uni,Royaume-Uni,GBR
+Russie,Russie,RUS
+Rwanda,Rwanda,RWA
+Saint-Christophe-et-Niévès,Saint-Christophe-et-Niévès,KNA
+Saint-Marin,Saint-Marin,SMR
+Saint-Vincent-et-les-Grenadines,Saint-Vincent-et-les-Grenadines,VCT
+Sainte-Lucie,Sainte-Lucie,LCA
+Salomon (Îles),Salomon (Îles),SLB
+Samoa,Samoa,WSM
+Sao Tomé-et-Principe,Sao Tomé-et-Principe,STP
+Sénégal,Sénégal,SEN
+Serbie,Serbie,SRB
+Seychelles,Seychelles,SYC
+Sierra Leone,Sierra Leone,SLE
+Singapour,Singapour,SGP
+Slovaquie,Slovaquie,SVK
+Slovénie,Slovénie,SVN
+Somalie,Somalie,SOM
+Soudan,Soudan,SDN
+Soudan du Sud,Soudan du Sud,SSD
+Sri Lanka,Sri Lanka,LKA
+Suède,Suède,SWE
+Suisse,Suisse,CHE
+Suriname,Suriname,SUR
+Syrie,Syrie,SYR
+Tadjikistan,Tadjikistan,TJK
+Tanzanie,Tanzanie,TZA
+Tchad,Tchad,TCD
+Thaïlande,Thaïlande,THA
+Timor oriental,Timor oriental,TLS
+Togo,Togo,TGO
+Tonga,Tonga,TON
+Trinité-et-Tobago,Trinité-et-Tobago,TTO
+Tunisie,Tunisie,TUN
+Turkménistan,Turkménistan,TKM
+Turquie,Turquie,TUR
+Tuvalu,Tuvalu,TUV
+Ukraine,Ukraine,UKR
+Uruguay,Uruguay,URY
+Vanuatu,Vanuatu,VUT
+Vatican,Vatican,VAT
+Venezuela,Venezuela,VEN
+Viêt Nam,Viêt Nam,VNM
+Yémen,Yémen,YEM
+Zambie,Zambie,ZMB
+Zimbabwe,Zimbabwe,ZWE

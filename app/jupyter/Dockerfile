@@ -14,7 +14,8 @@ RUN pip install \
   scikit-learn \
   chardet \
   requests \
-  pycountry
+  pycountry \
+  statsmodels
 
 RUN mkdir /app
 COPY /resources /app
