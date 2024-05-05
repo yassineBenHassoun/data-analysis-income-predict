@@ -15,6 +15,7 @@ RUN pip install \
   chardet \
   requests \
   pycountry \
+  plotly \
   statsmodels
 
 RUN mkdir /app
